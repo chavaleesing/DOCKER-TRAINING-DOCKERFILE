@@ -1,5 +1,8 @@
 # docker-training-dockerfile
 
+
+![alt text](dd.png)
+
 ## Hello-World/ 
 
 Build image name `hello-world`
